@@ -1,2 +1,2 @@
 # Instagram-Stories
-INstagram Stories using Tailwind css
+Instagram Stories using Tailwind css
